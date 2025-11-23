@@ -6,7 +6,7 @@ package Praktikum_PBO11;
 
 /**
  *
- * @author LENOVO
+ * @author ACER
  */
 class Anggota {
     private String nama;
