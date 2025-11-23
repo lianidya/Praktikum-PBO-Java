@@ -6,7 +6,7 @@ package Praktikum11;
 
 /**
  *
- * @author LENOVO
+ * @author ACER
  */
 public class Main_Tugas_11 {
     public static void main(String[] args) {
