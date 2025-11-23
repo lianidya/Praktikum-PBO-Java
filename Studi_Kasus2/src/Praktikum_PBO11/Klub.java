@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  *
- * @author LENOVO
+ * @author ACER
  */
 class Klub {
     private String namaKlub;
