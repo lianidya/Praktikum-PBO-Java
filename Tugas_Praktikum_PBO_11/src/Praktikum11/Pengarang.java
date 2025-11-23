@@ -6,7 +6,7 @@ package Praktikum11;
 
 /**
  *
- * @author LENOVO
+ * @author ACER
  */
 public class Pengarang {
     private String namaPengarang;
