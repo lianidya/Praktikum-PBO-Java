@@ -1,0 +1,1 @@
+Produk{nama='mouse', harga=150000.0, stok=50}
